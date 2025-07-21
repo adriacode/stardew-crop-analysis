@@ -1,1 +1,15 @@
 *.csv
+
+# Python cache e compilados
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ambiente virtual
+env/
+venv/
+
+# Arquivos do sistema (Mac)
+.DS_Store
