@@ -1,3 +1,4 @@
+# Arquivos .csv
 *.csv
 
 # Python cache e compilados
@@ -10,6 +11,3 @@ __pycache__/
 # Ambiente virtual
 env/
 venv/
-
-# Arquivos do sistema (Mac)
-.DS_Store
