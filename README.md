@@ -6,7 +6,9 @@ Este projeto tem como objetivo analisar os dados das plantações do jogo **Star
 
 ## 🔍 Fonte dos Dados
 
-Os dados foram obtidos no repositório [/DS-Stardew-Valley-Crops-Profit](https://github.com/Cecax27/DS-Stardew-Valley-Crops-Profit), a partir do arquivo `crops_preprocessed_data.csv`.
+Os dados principais de plantações foram obtidos do repositório [/DS-Stardew-Valley-Crops-Profit](https://github.com/Cecax27/DS-Stardew-Valley-Crops-Profit), a partir do arquivo `crops_preprocessed_data.csv`.
+Além disso, foram usados dados complementares de informações específicas por estação, crescimento e colheita múltipla, coletados no dataset do Kaggle:
+[Stardew Valley Spring Crop Info](https://www.kaggle.com/datasets/shinomikel/stardew-valley-spring-crop-info)
 
 ## 📌 Objetivos da Análise
 
