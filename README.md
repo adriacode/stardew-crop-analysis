@@ -12,9 +12,9 @@ Além disso, foram usados dados complementares de informações específicas por
 
 ## 📌 Objetivos da Análise
 
-- Calcular o lucro total de cada plantação. [em andamento]  
-- Determinar o lucro por dia de crescimento. [em andamento]  
-- Identificar as culturas mais rentáveis por estação. [em andamento]  
+- Calcular o lucro total de cada plantação.
+- Determinar o lucro por dia de crescimento.
+- Identificar as culturas mais rentáveis por estação. 
 - Visualizar os resultados com gráficos e tabelas. [em andamento]
 
 ## 🚀 Como executar
