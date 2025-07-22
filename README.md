@@ -28,11 +28,7 @@ Além disso, foram usados dados complementares de informações específicas por
    ```bash
    pip install -r requirements.txt
    ```
-
-3. Execute o notebook:  
-   ```bash
-   jupyter notebook notebooks/analise_lucros.ipynb
-   ```
+3. Execute os notebookos na pasta /notebooks
 
 ## 🛠️ Tecnologias Utilizadas
 
