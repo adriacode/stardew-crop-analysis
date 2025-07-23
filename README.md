@@ -8,6 +8,13 @@ This project aims to analyze crop data from **Stardew Valley**, identifying the 
 
 ---
 
+## 🎮 Sobre o Jogo | About the Game
+Stardew Valley é um jogo de simulação onde o jogador herda uma fazenda abandonada e deve restaurá-la cultivando plantações, criando animais, pescando, minerando e se relacionando com os moradores da vila. As plantações variam conforme a estação do ano, com diferentes tempos de crescimento, preços e possibilidades de colheita múltipla. Escolher as culturas certas é essencial para maximizar o lucro e aproveitar bem o tempo do jogador.
+
+Stardew Valley is a farming simulation game where the player inherits an abandoned farm and must restore it by growing crops, raising animals, fishing, mining, and building relationships with villagers. Crops change with each season, featuring different growth times, prices, and potential for multiple harvests. Choosing the right crops is key to maximizing profit and making the most of in-game time.
+
+---
+
 ## 🔍 Fonte dos Dados / Data Sources
 
 Os dados principais de plantações foram obtidos do repositório [/DS-Stardew-Valley-Crops-Profit](https://github.com/Cecax27/DS-Stardew-Valley-Crops-Profit), a partir do arquivo `crops_preprocessed_data.csv`.
