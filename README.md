@@ -1,5 +1,3 @@
-# [Projeto em Construção] | [Work in progress]
-
 # 📊 Análise de Lucro de Plantações no Stardew Valley / Profit Analysis of Stardew Valley Crops
 
 Este projeto tem como objetivo analisar os dados das plantações do jogo **Stardew Valley**, identificando as culturas mais lucrativas, os tempos de crescimento e o retorno médio por dia de cada plantação.
@@ -32,14 +30,14 @@ Additional seasonal and crop-specific information was collected from the Kaggle 
 - Calcular o lucro total de cada plantação.
 - Determinar o lucro por dia de crescimento.
 - Identificar as culturas mais rentáveis por estação. 
-- Visualizar os resultados com gráficos e tabelas. [em andamento]
+- Visualizar os resultados com gráficos e tabelas.
 
 --
 
 - Calculate total profit for each crop  
 - Determine profit per growth day  
 - Identify the most profitable crops per season  
-- Visualize results using graphs and tables [in progress]
+- Visualize results using graphs and tables
 
 ---
 
@@ -56,6 +54,9 @@ Additional seasonal and crop-specific information was collected from the Kaggle 
    ```
 3. Execute os notebooks na pasta /notebooks 
    Run the notebooks in the /notebooks folder
+
+4. Veja os gráficos construidos na pasta /data/figures
+   View the graphs created in the /data/figures folder
 
 ## 🛠️ Tecnologias Utilizadas / Technologies Used
 
