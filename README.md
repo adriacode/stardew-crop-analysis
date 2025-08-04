@@ -52,11 +52,9 @@ Additional seasonal and crop-specific information was collected from the Kaggle 
    ```bash
    pip install -r requirements.txt
    ```
-3. Execute os notebooks na pasta /notebooks 
-   Run the notebooks in the /notebooks folder
+3. Execute os notebooks na pasta /notebooks / Run the notebooks in the /notebooks folder
 
-4. Veja os gráficos construidos na pasta /data/figures
-   View the graphs created in the /data/figures folder
+4. Veja os gráficos construidos na pasta /data/figures / View the graphs created in the /data/figures folder
 
 ## 🛠️ Tecnologias Utilizadas / Technologies Used
 
