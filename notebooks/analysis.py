@@ -80,6 +80,7 @@ sns.barplot(data=spring_crops.head(5), x="name", y="profit_per_day", palette=spr
 plt.ylabel("Profit per day / Lucro por dia")
 plt.title("Profitable Crops (Spring) / Plantações mais lucrativas (Primavera)")
 plt.xlabel("Name / Nome")
+plt.savefig("../data/figures/top5_spring.png", dpi=300, bbox_inches="tight")
 plt.show()
 
 # 5 Most Profitable Crops (Summer) | 5 plantações mais lucrativas (Verão)
@@ -88,6 +89,7 @@ sns.barplot(summer_crops.head(5), x="name", y="profit_per_day", palette=summer_c
 plt.ylabel("Profit per day / Lucro por dia")
 plt.title("Profitable Crops (Summer) / Plantações mais lucrativas (Verão)")
 plt.xlabel("Name / Nome")
+plt.savefig("../data/figures/top5_summer.png", dpi=300, bbox_inches="tight")
 plt.show()
 
 # 5 Most Profitable Crops (Fall) | 5 plantações mais lucrativas (Outono)
@@ -96,4 +98,5 @@ sns.barplot(fall_crops.head(5), x="name", y="profit_per_day", palette=fall_color
 plt.ylabel("Profit per day / Lucro por dia")
 plt.title("Profitable Crops (Fall) / Plantações mais lucrativas (Outono)")
 plt.xlabel("Name / Nome")
+plt.savefig("../data/figures/top5_fall.png", dpi=300, bbox_inches="tight")
 plt.show()
